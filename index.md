@@ -5,7 +5,7 @@
 layout: home
 
 ---
-# Hey there! (￣▽￣)ノ	
+## Hey there! (￣▽￣)ノ	
 
 ```
 const me = {
