@@ -24,7 +24,7 @@ github_username:  hoangdesu
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-architect
 plugins:
   - jekyll-feed
 
