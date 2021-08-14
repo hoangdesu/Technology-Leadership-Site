@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to my blog about Technology Leadership (￣▽￣)ノ	"
+title:  "Welcome to my blog about Technology Leadership <(￣︶￣)>	"
 date:   2021-08-14 19:00:55 +0700
 categories: technology_leadership
 ---

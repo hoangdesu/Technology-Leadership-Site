@@ -18,4 +18,4 @@ const me = {
 
 This is my blog for Technology Leadership course.
 
-All of this work for only 1 extra percent, but every percent counts `¯\ _(ツ)_/¯`
+All of this work for only 1 extra percent, but every percent counts `¯\_(ツ)_/¯`
