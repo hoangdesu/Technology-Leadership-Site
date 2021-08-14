@@ -17,10 +17,11 @@ title: Technology Leadership
 email: hoangdesu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is created for posts about Technology Leadership
-baseurl: "/Technology-Leadership-Site/" # the subpath of your site, e.g. /blog
+baseurl: "/Technology-Leadership-Site" # the subpath of your site, e.g. /blog
 url: "https://hoangdesu.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hoangdesu
 github_username:  hoangdesu
+facebook_username: Hoangdayo
 
 # Build settings
 markdown: kramdown
